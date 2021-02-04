@@ -1,0 +1,123 @@
+{
+  "main": {
+    "name": "Faraz Ahmed",
+    "occupation": "React developer",
+    "description": "I've completed my Web completed my Web and mobile app cource from SMIT",
+    "image": "profilepic.jpg",
+    "bio": "I am ambitions problem solver with a passion for online business, and who would like to join a team of like-minded developers, i have experience of creating both logical and innovative solutions to complex web problems. I am passionate and have a keen interest in technology.",
+    "contactmessage": "Get in touch with me",
+    "email": "suny.faraz@gmail.com",
+    "phone": "+92 333-2318395",
+    "address": {
+      "street": "A-102 Saadabad society block-5",
+      "city": "Karachi, Pakistan",
+      "state": "Gulistan-e-johar",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload": "Faraz Ahmed Resume.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/smarti.faraz",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/faraz-ahmed-63380044/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/farax_ahmed/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/faraax",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Ilma university",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Codebra",
+        "title": "Founder and CEO",
+        "years": "Dec 2020 - Present",
+        "description": "We are here to give a solution for your company using our skill set. Our team deliver their the best of best every time they work on a project to build a better project than the last one. We try not to disapoint our clients, our team works very hard to give our client the best outcome ever."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "100%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "007 Dizitizing",
+        "category": "Client work",
+        "image": "007 ditizing.png",
+        "url": "https://www.007digitizing.com/"
+      },
+      {
+        "title": "Olx clone",
+        "category": "ReactJS",
+        "image": "olx-clone.png",
+        "url": "https://olx-clone-assignment-17a8e.firebaseapp.com/"
+      },
+      {
+        "title": "Salayni-Clone",
+        "category": "Html ,Css ,Bootstrap & JavaScript",
+        "image": "saylani-mainpage-clone.png",
+        "url": "https://faraax.github.io/Assignment-3/"
+      },
+      {
+        "title": "Group Chat app",
+        "category": "Html ,Css ,JavaScript & Firebase as backend",
+        "image": "chat-app-2.png",
+        "url": "http://ibd.surge.sh/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Putting together a website is a task, finding the right individual or company is even more complex. I did my search around looking for this particular company that has the ability to create, design and optimized my web site. not only they have great taste in design but they can guide you through the process and beyond.",
+        "user": "Afnan Yahya (CEO of 007 Digitizing)"
+      }
+    ]
+  }
+}
